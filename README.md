@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy Miguel Álvarez</h1>
-<p align="center"><strong>Ingeniero de Software | Fullstack Developer</strong></p>
+<p align="center"><strong>Ingeniero de Sistemas | Software Engineer | Fullstack Developer Javascript | Backend Developer</strong></p>
 
 ### 🧑‍💻 Sobre mí
 
